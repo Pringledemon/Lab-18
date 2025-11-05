@@ -15,8 +15,11 @@ File doesn't exist:
 Pringledemon
 
 # For reader
-“Updated README with Lab 18 instructions.” 
+Create file grades.txt, create scaner that prints "Student Grades" and contents of grades.txt, add an exception
 
-Edit added by geaneeesp
+# Edits
+- added lab 18 instructions 
+
+Edit by geaneeesp
 
 
