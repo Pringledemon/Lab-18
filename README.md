@@ -14,7 +14,7 @@ File doesn't exist:
 # Author
 Pringledemon
 
-# For reader
+# Lab instructions
 Create file grades.txt, create scaner that prints "Student Grades" and contents of grades.txt, add an exception
 
 # Edits
@@ -22,4 +22,7 @@ Create file grades.txt, create scaner that prints "Student Grades" and contents 
 
 Edit by geaneeesp
 
+# Acknowledgement
+
+Project was edited and reviewd by geaneeesp
 
