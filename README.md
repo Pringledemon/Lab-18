@@ -15,4 +15,6 @@ File doesn't exist:
 Pringledemon
 
 # For reader
-“Updated README with lab instructions.”
+“Updated README with Lab 18 instructions.” 
+
+Edit added by geaneeesp
